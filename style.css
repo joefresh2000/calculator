@@ -61,7 +61,7 @@ margin-bottom: 10px;
 @media only screen and (max-width:600px) {
  .box{
     width: 90%;
-    margin: 0%;
-    padding: 5%;
+    margin:1%;
+    padding: 2%;
  }   
 }
